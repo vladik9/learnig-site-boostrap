@@ -1,0 +1,167 @@
+body {
+  color: rgb(3, 3, 3);
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+
+/* Title Section */
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+@media (max-width: 990px) {
+  .phone-image {
+    position: static;
+    padding: 50px;
+  }
+  #image-rotate {
+    transform: rotate(0);
+  }
+}
+#nav-size {
+  font-size: 1.25rem;
+  padding-right: 20px;
+}
+#nav-size-tindog {
+  font-size: 1.75rem;
+  padding-left: 2px;
+}
+#font-first-phrase {
+  font-family: "Lilita One", cursive;
+  size: 3rem;
+  line-height: 1.5;
+  text-align: justify;
+  padding-left: 25px;
+  padding-bottom: 25px;
+}
+.title-padding {
+  padding-top: 50px;
+}
+.container-fluid {
+  padding: 3% 10%;
+}
+#image-rotate {
+  background-color: none;
+  transform: rotate(25deg);
+}
+.btn-padding-left {
+  margin-left: 10px;
+}
+.image-dog-padding {
+  padding-right: 20px;
+}
+
+/* Iphone imge */
+.phone-image {
+  width: 50%;
+}
+
+/* Futures Section */
+#features {
+  background-color: #fff;
+  position: relative;
+}
+.icons-modification {
+  color: #ef8172;
+  padding-bottom: 20px;
+}
+.icons-modification:hover {
+  color: #ff4c68;
+}
+.font-text-icon {
+  font-family: "Fredoka One", cursive;
+  font-size: 1.5rem;
+}
+
+.paragraf-icon {
+  color: #8f8f8f;
+}
+/* Testimonials */
+#testimonials {
+  font-family: "Lilita One", cursive;
+  padding: 3% 10% 5%;
+  background-color: #ef8172;
+  color: #fff;
+  padding: 30px 30px;
+}
+.testimonial-text {
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.img-coment {
+  font-family: "Peddana", serif;
+  line-height: 1.5;
+  font-size: x-large;
+}
+
+.testimonial-image {
+  margin: 20px 5px 5px;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+/* PressSection */
+#press {
+  background-color: #ef8172;
+  padding: 3% 3%;
+}
+
+.arrange-cards {
+  text-align: center;
+  padding: 4% 15% 5%;
+}
+/* Cards */
+.add-pading-logo-text {
+  padding: 50px 0 15px;
+}
+.padding-between {
+  padding-top: 50px;
+}
+.header-font {
+  font-family: "Sansita Swashed", cursive;
+}
+.font-manage-text-price {
+  color: #8f8f8f;
+}
+.font-manage-text {
+  color: #8f8f8f;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+/* Dowloand  buttons and the div on the end of page  */
+#cta {
+  background-color: #ff4c68;
+  width: auto;
+  height: 350px;
+}
+.text-pading-buttom {
+  padding-top: 30px;
+  font-family: "Lilita One", cursive;
+  color: #fff;
+}
+.padding-buttons {
+  padding-top: 60px;
+}
+.text-size-moddification {
+  font-size: 2.7rem;
+  margin: 0 25% 0;
+}
+
+/* Footer */
+.div-size {
+  width: auto;
+  height: 100px;
+}
+.pading-left {
+  margin-left: 5px;
+}
+.special-icon-pading {
+  padding: 3% 5px 0;
+  text-align: center;
+}
+.text-font-footer {
+  font-family: "Josefin Sans", sans-serif;
+  color: #8f8f8f;
+}
